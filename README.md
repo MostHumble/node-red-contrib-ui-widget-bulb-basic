@@ -13,7 +13,11 @@
 
 3. copy this folder to the folder  `~/.node-red/node_modules/@studiobox/node-red-contrib-ui-widget-bulb-basic`
 
-4. link iside that folder with npm link 
+4. while you are in that folder type to link it to node-red
+
+```
+npm link
+```
 
 5. Start Node-RED 
 
