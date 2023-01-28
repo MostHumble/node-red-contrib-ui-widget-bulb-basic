@@ -11,7 +11,7 @@
 
 2. Install <a href="https://flows.nodered.org/node/node-red-dashboard" target="_blank">Node-RED Dashboard</a> by follow Node-RED Dashboard installation guideline.
 
-3. copy this folder to the folder  `~/.node-red/node_modules/@studiobox/node-red-contrib-ui-widget-bulb-basic 
+3. copy this folder to the folder  `~/.node-red/node_modules/@studiobox/node-red-contrib-ui-widget-bulb-basic`
 
 4. link iside that folder with npm link 
 
