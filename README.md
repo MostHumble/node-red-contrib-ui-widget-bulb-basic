@@ -14,21 +14,20 @@
 3. Install this package at user data directory `~/.node-red`
 
 ```
-npm install @studiobox/node-red-contrib-ui-widget-bulb-basic
+copy this folder to your @studiobox/node-red-contrib-ui-widget-bulb-basic
 ```
+4. link iside that folder with npm link
 
-4. Start Node-RED 
+5. Start Node-RED 
 
 ```
 node-red
 ```
 
-## Dashboard Example
 
-![example-bulb-basic](https://user-images.githubusercontent.com/43282496/162043482-1b446731-8e0b-472e-a917-c564426822ba.png)
 
 ## Documents
 [UI Widget Bulb Basic node for Node-RED Dashboard](https://github.com/jatu-studiobox/node-red-contrib-ui-widget-bulb-basic/wiki)
 
 ## Change Logs
-[See change logs detail](https://github.com/jatu-studiobox/node-red-contrib-ui-widget-bulb-basic/wiki/Change-Logs)
+[See change logs detail](https://github.com/MostHumble/node-red-contrib-ui-widget-bulb-basic/wiki/Change-Logs)
