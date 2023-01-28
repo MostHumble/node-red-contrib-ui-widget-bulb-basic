@@ -1,4 +1,4 @@
-# node-red-contrib-ui-widget-bulb-basic
+# node-red-contrib-ui-widget-dimming-bulb
 
 ![bulb-basic-title](https://user-images.githubusercontent.com/43282496/162046452-ea1c1263-d15e-4fa0-bfc7-6c7e85e82d4e.png)
 
