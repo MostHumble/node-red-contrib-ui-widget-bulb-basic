@@ -28,7 +28,7 @@ node-red
 
 
 ## Documents
-[UI Widget Bulb Basic node for Node-RED Dashboard](https://github.com/jatu-studiobox/node-red-contrib-ui-widget-bulb-basic/wiki)
+[The original module to which I added dimming: ](https://github.com/jatu-studiobox/node-red-contrib-ui-widget-bulb-basic/wiki)
 
 ## Change Logs
 [See change logs detail](https://github.com/MostHumble/node-red-contrib-ui-widget-bulb-basic/wiki/Change-Logs)
